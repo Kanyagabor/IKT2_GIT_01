@@ -1,6 +1,6 @@
 # IKT Projekt
 
-# A feladat készíteni egy html oldalt ami reszponzív, amin szerepel egy rövid leírás a technológiákról amikkel dolgozunk a feladat során.
+A feladat készíteni egy html oldalt ami reszponzív, amin szerepel egy rövid leírás a technológiákról amikkel dolgozunk a feladat során.
 
 - **HTML:**: A Hyper Text Markup Language arra való hogy a tagek használatával egy vizuális dolgot jelenítünk meg egy leíró nyelvben, de ezeket még nem lehet formázni csak akkor ha használunk hozzá css-t
 
